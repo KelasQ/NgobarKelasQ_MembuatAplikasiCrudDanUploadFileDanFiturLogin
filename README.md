@@ -1,0 +1,2 @@
+# NgobarKelasQ_MembuatAplikasiCrudDanUploadFileDanFiturLoginPart1
+Belajar bareng bagaimana membuat aplikasi CRUD (Create, Read, Update Dan Delete) dan juga bagaimana kita mengupload sebuah file atau mengelolah file dan juga kita akan memncoba membuat fitur login sederhana dengan menggunakan bahasa pemogram PHP dan database MySQL dan juga kita menggunakan Bootstrap Frameword untuk mendesain tampilan aplikasi sederhana kita
